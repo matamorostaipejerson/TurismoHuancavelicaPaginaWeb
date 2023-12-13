@@ -1,0 +1,55 @@
+body{
+	
+	background-color:#40404040;
+}
+
+#titulo{
+	color:#E36B2C;
+    text-align: center;
+	margin:30px;
+	font-size: 40px;	
+}
+#concepto h2{
+	color:#cb3234;
+    margin: 20px;
+    font-size: 30px;
+}
+#concepto p{
+    color:#000000;
+    margin: 20px;
+    font-size: 20px;
+}
+#historia h2{
+    color:#cb3234;
+    margin: 20px;
+    font-size: 30px;
+}
+#historia p{
+    color:#000000;
+    margin: 20px;
+    font-size: 20px;
+}
+#epocaActual h2{
+    color:#cb3234;
+    margin: 20px;
+    font-size: 30px;
+}
+#epocaActual p{
+    color:#000000;
+    margin: 20px;
+    font-size: 20px;
+}
+#ubicacion h2{
+    color:#cb3234;
+    margin: 20px;
+    font-size: 30px;
+}
+#ubicacion p{
+    color:#000000;
+    margin: 20px;
+    font-size: 20px;
+}
+#piePagina{
+    text-align: center;
+    font-size: 30px
+}

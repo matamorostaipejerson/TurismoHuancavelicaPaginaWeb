@@ -1,0 +1,51 @@
+body{
+	
+	background-color:#40404040;
+}
+
+#titulo{
+	color:#E36B2C;
+    text-align: center;
+	margin:30px;
+	font-size: 30px;	
+}
+
+#historia h2{
+    color:#cb3234;
+    margin: 20px;
+    font-size: 30px;
+}
+#historia p{
+    color:#000000;
+    margin: 20px;
+    font-size: 20px;
+}
+#características h2{
+    color:#cb3234;
+    margin: 20px;
+    font-size: 30px;
+}
+#características h3{
+    color:#008F39;
+    margin: 20px;
+    font-size: 30px;
+}
+#características p{
+    color:#000000;
+    margin: 20px;
+    font-size: 20px;
+}
+#ubicacion h2{
+    color:#cb3234;
+    margin: 20px;
+    font-size: 30px;
+}
+#ubicacion p{
+    color:#000000;
+    margin: 20px;
+    font-size: 20px;
+}
+#piePagina{
+    text-align: center;
+    font-size: 30px
+}

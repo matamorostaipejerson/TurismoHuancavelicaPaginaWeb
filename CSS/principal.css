@@ -1,0 +1,57 @@
+
+body{
+	
+	background-color:#40404040;
+}
+
+#titulo{
+	color:#E36B2C;
+    text-align: center;
+	margin:30px;
+	font-size: 40px;	
+}
+#ubicaciónGeografica h2{
+	color:#cb3234;
+    margin: 20px;
+    font-size: 30px;
+}
+#ubicaciónGeografica p{
+    color:#000000;
+    margin: 20px;
+    font-size: 20px;
+}
+#historia h2{
+    color:#cb3234;
+    margin: 20px;
+    font-size: 30px;
+}
+#historia p{
+    color:#000000;
+    margin: 20px;
+    font-size: 20px;
+}
+#dominioCultural h2{
+    color:#cb3234;
+    margin: 20px;
+    font-size: 30px;
+}
+#dominioCultural p{
+    color:#000000;
+    margin: 20px;
+    font-size: 20px;
+}
+#lugaresTuristicos h1{
+    color:#008F39;
+    margin: 20px;
+    font-size: 30px;
+}
+#lugaresTuristicos :link{
+    color: #015D52;
+    font-weight: 300;
+    margin-right: 10px;  
+}
+
+#piePagina{
+    text-align: center;
+    font-size: 30px
+}
